@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I'm mokrunka!👋
 
+[![mokrunka's github stats](https://github-readme-stats.vercel.app/api?username=mokrunka)](https://github.com/mokrunka/github-readme-stats)
 <!--
 **mokrunka/mokrunka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
